@@ -1,1 +1,1 @@
-Dans ce tp on utilisé le dataset Corel Image Features
+Dans ce tp on a utilisé le dataset Corel Image Features
